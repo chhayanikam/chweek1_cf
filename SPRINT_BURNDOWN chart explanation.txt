@@ -1,0 +1,27 @@
+Sprint workflow : todo, inprocess, done
+todo : list of US sprint
+Sprint Backlog (SB): is fetched from Product Backlog (PB)
+SB is the subset of PB
+PB: 100 Userstories
+SB: 4 Userstories
+SPRINT : total efforts required to fulfill all these 4 req.
+------------------
+** Burndown chart **
+Total Efforts : 120 hrs   (Story points)
+duratin: 10 days
+pending efforts 
+Ideal Trend
+Current Trend
+------------
+Product Backlog   	| Sprint Backlog
+List of entire req.     | selected Req.   | srpint team 4-5 
+
+SPRINT TEAM : not more than 5 persons
+
+     p1   p2  p3 p4 p5
+s1        4   2   5
+s2   3    6   2
+s3                   3
+S4   4
+total efforts 4 2 5 3 6 2 3 4.... 2w 2d : 5 days of 1 w
+120 hrs - 3 stories : sprint
